@@ -1,0 +1,6 @@
+{
+  "name": "Your Style Creation",
+  "description": "Your Style Creation - Wear It. Own It. Be You. Men's apparel and footwear shopping app in Electric Lime & Charcoal theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
